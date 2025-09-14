@@ -80,12 +80,6 @@ def update_res(u_choice):
         print(f"Here is ${round(change,2)} in change")
     print(f"Here is your {u_choice} ☕ Enjoy!")
 
-
-
-
-
-
-
 while True:
     choice = input("What would you like? (espresso/latte/cappuccino): ").lower()
 
